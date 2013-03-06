@@ -27,6 +27,9 @@
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     NSLog(@"fff");
+    
+    NSLog(@"ㅁㅇㅇ");
+    
     return YES;
 }
 
